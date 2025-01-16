@@ -15,7 +15,7 @@
 <b>My Stats</b>
 <br>
 <br>
-![Facundo Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=facu-c&theme=buefy&layout=compact&langs_count=5)
+![Facundo Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=facu-c&theme=buefy&layout=compact&langs_count=6)
 
 
 <hr>
