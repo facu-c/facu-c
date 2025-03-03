@@ -8,7 +8,7 @@
   let mut facundo_learning = Student {
     languages: "Rust, Javascript, TypeScript",
     frameworks: "Angular, NestJs",
-    stuff_i_like: "Open Source, Linux, and a good cup of milk chocolate"
+    stuff_i_like: "Open Source, Linux, Computers"
   };
 ```
 
